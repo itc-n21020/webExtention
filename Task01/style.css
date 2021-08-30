@@ -1,0 +1,43 @@
+@charset "utf-8";
+
+body {
+	font-family: sans-serif;
+}
+h1 {
+	font-size: 21px;
+}
+h2 {
+	font-size: 18;
+}
+body {
+	line-height: 1.7;
+}
+.lead {
+	font-weight: bold;
+}
+.headline {
+	text-align: center;
+}
+body {
+	color: #002a5a;
+}
+a:hover img {
+	opacity: 0.5;
+}
+a {
+	color: #0073bc;
+}
+a:hover {
+	color: #808080;
+}
+a:active {
+	color: #4ca4e8;
+}
+.item {
+	margin: 16px;
+	border: 1px solid #cccccc;
+	padding: 8px;
+	width: 300px;
+	background-color: #fafafa;
+}
+
